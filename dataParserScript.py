@@ -1,10 +1,7 @@
 # Sagar Setru
 # 2016 07 14
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 9685d8720f079278ea5aad7fad293fe80babb4bb
 import pandas as pd
 import numpy as np
 import os
